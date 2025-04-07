@@ -7,7 +7,7 @@
 
 **ROLL NO: 212223040235**
 
-**DEPARTMENT: Information Technology**
+**DEPARTMENT: Computer science & Engineering**
 
 ## Aim
 
